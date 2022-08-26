@@ -1,0 +1,73 @@
+article {
+    border: 2px solid yellow;
+    padding: 15px;
+    margin: 15px;
+
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: rgb(4, 4, 24);
+}
+
+    h1 {
+        text-align: center;
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2{
+        text-align: center;
+        color:darkgray;
+        
+    }
+
+
+    .prvy {
+        text-decoration: underline rgb(186, 189, 0);
+        text-align: center;
+        color: aliceblue;
+    }
+
+    .druhy{
+        text-decoration: underline rgb(186, 189, 0);
+        text-align: center;
+        color: aliceblue;
+    }
+
+    .treti {
+        text-decoration: underline rgb(186, 189, 0);
+        text-align: center;
+        color: aliceblue; 
+    }
+
+    .obrazok1{
+        height: 150px;
+        border-radius: 50%;
+        display: flex;
+        margin: 150px;
+    }
+
+    .obrazok2{
+        height: 150px;
+        position: relative;
+        left: 500px;
+        bottom: 450px;
+    }
+
+    .obrazok3{
+        height: 150px;
+        position: relative;
+        left: 300px;
+        bottom: 325px;
+
+    }
+
+    .obrazok4{
+        height: 150px;
+        position: relative;
+        left: 140px;
+        bottom: 150px;
+    }
